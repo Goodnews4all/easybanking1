@@ -1,0 +1,83 @@
+body{
+    font-size: 18px;
+    font-weight: 300, 400, 700;
+    font-family: Public Scan;
+    background: hsl(0, 0%, 98%);
+}
+.header{
+height: 50px;
+background: white;
+border-bottom: 1px solid grey;
+}
+.logo{
+    margin-left: 120px;
+    margin-top: 11px;
+    margin-bottom: 16px;
+}
+.link1 li{
+    list-style: none;
+    display: inline;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: hsl(220deg 2% 62%);
+}
+.link1 li a{
+    text-decoration: none;
+    color: hsl(220deg 2% 62%);
+}
+.link1 li a :hover{
+    text-decoration: inline;
+}
+
+.link2{
+    margin-left: 450px;
+    margin-top: -60px;
+}
+.button1{
+    float: right;
+    margin-right: 244px;
+    margin-top: -42px;
+    border-radius: 24px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 16px;
+    padding-right: 16px;
+    background: hsl(159deg 61% 48%);
+    color: white;
+    border: hsl(159deg 61% 48%);
+    
+}
+.banner1{
+    background-image: url(../images/image-mockups.png);
+    background-repeat: no-repeat;  
+    background-position: 120%, 200%;
+    margin-right: -5px;
+    padding-bottom: 400px;
+    padding-top: 10px;
+    height: 500px;  
+}
+.text title{
+    margin-left: 120px;
+    margin-top: 200px;
+}
+.textp1{
+    font-family: public sans-serif;
+    padding-right: 353px;
+    
+}
+.textt1{
+    font-size: 50px;
+    margin-top: 100px;
+    white-space: nowrap;
+
+}
+.button2{
+    border-radius: 24px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background: hsl(159deg 61% 48%);
+    color: white;
+    margin-left: 100px;
+}
